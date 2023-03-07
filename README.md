@@ -12,15 +12,17 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="right" alt="MariMari" height="120" width="120" src="https://cdn.discordapp.com/attachments/1061713662487834724/1082791257853677698/asasasas.gif">
 </div>
  
  <br>
  
-  ### Meu linkedin abaixo para quem quiser ver algumas coisas a mais sobre mim...
+  ### Minhas redes abaixo para quem quiser ver algumas coisas a mais sobre mim...
  
 <div> 
 
   <a href="https://www.linkedin.com/in/marianapacini-dataanalyst" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "marimari.pacini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
