@@ -1,5 +1,5 @@
 # Bem-vindo(a)! Eu sou a Mari, tudo bem?
-Sou estudante de Ciência de Dados, e atuo com análise de dados.
+Sou estudante de Ciência de Dados, e atuo com análise de dados. Comecei com programação FrontEnd mas decidi mudar para dados após estudar um pouco mais sobre. Foi quando eu me apaixonei e quis ingressar de cabeça na área e futuramente foca um pouco mais em Machine Learning.
 
 # Tecnologias
 - Ciência de Dados: Recentemente tenho focado bastante em como ser uma boa cientista de dados, estou iniciando nessa trajetória com uma base em Python para dados, SQL e por fim PowerBI.
@@ -17,11 +17,10 @@ Sou estudante de Ciência de Dados, e atuo com análise de dados.
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Pandas" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   <img align="right" alt="MariMari" height="120" width="120" src="https://cdn.discordapp.com/attachments/1061713662487834724/1082791257853677698/asasasas.gif">
 </div>
  
