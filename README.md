@@ -1,4 +1,14 @@
-## Bem-vindo(a)! Eu sou a Mari, tudo bem?
+# Bem-vindo(a)! Eu sou a Mari, tudo bem?
+Sou estudante de Ciência de Dados, e atuo com análise de dados.
+
+# Tecnologias
+- Ciência de Dados: Recentemente tenho focado bastante em como ser uma boa cientista de dados, estou iniciando nessa trajetória com uma base em Python para dados, SQL e por fim PowerBI.
+
+### Linguagens
+- Python: Tenho conhecimento de python para análise de dados, venho estudado prioritariamente Pandas, Numpy e para a visualização de dados venho utilizado Matplot, Seaborn.
+
+
+
 
  <div>
    <a href="https://github.com/MariMari-Pacini">
