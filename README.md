@@ -22,7 +22,7 @@ Sou estudante de Ciência de Dados, e atuo com análise de dados. Comecei com pr
 <hr style="border: 1px solid black;">
 
 
- <div>
+ <div align='center'>
    <a href="https://github.com/MariMari-Pacini">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariMari-Pacini&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariMari-Pacini&layout=compact&langs_count=6&theme=radical"/>
