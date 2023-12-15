@@ -12,7 +12,7 @@ Sou estudante de Ciência de Dados, e atuo com análise de dados. Comecei com pr
 
 <br></br>
 ## <strong>Tecnologias</strong>
-- Ciência de Dados: Recentemente tenho focado bastante em como ser uma boa cientista de dados, estou iniciando nessa trajetória com uma base em Python para dados, SQL e por fim PowerBI.
+- Ciência de Dados: Recentemente tenho focado bastante em como ser uma boa cientista de dados, estou iniciando nessa trajetória com uma base em Python para dados, SQL, Estatística e por fim PowerBI.
 <br></br>
 <br></br>
 ## <strong>Linguagens</strong>
