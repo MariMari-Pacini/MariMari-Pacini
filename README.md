@@ -3,7 +3,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="30"/>
 </h1>
 
-Sou estudante de Ciência de Dados, e atuo com análise de dados. Comecei com programação FrontEnd mas decidi mudar para dados após estudar um pouco mais sobre. Foi quando eu me apaixonei e quis ingressar de cabeça na área e futuramente foca um pouco mais em Machine Learning.
+Sou estudante de Ciência de Dados, e atuo com análise de dados. Comecei com programação FrontEnd mas decidi mudar para dados após estudar um pouco mais sobre. Foi quando eu me apaixonei e quis ingressar de cabeça na área e futuramente focar um pouco mais em Machine Learning.
 
 <div align="center">
   <img height="350" src="https://64.media.tumblr.com/633c193485d751929ce27dfce436896b/23bc468b2e6033be-67/s400x600/fd99df9a0633cbc2c2b9d5c684b8ef5f25052102.gif" />
@@ -16,7 +16,9 @@ Sou estudante de Ciência de Dados, e atuo com análise de dados. Comecei com pr
 <br></br>
 <br></br>
 ## <strong>Linguagens</strong>
-- Python: Tenho conhecimento de python para análise de dados, venho estudado prioritariamente Pandas, Numpy e para a visualização de dados venho utilizado Matplot, Seaborn.
+- Python: Tenho conhecimento de python para análise de dados e automações, venho estudado prioritariamente Pandas, Numpy e para a visualização de dados venho utilizado Matplot, Seaborn.
+- MongoDB: Tenho conhecimento em MongoDB, focando mais em consultas e análises, por conta do meu último trabalho.
+- HeidiSQL: Utilizei para inserir, modificar, atualizar e por fim, consultar o banco de dados que estou trabalhando no momento 
 
 <br></br>
 <hr style="border: 1px solid black;">
