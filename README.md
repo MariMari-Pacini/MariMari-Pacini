@@ -3,7 +3,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="30"/>
 </h1>
 
-Sou estudante de Ciência de Dados, e atuo com análise de dados. Comecei com programação FrontEnd mas decidi mudar para dados após estudar um pouco mais sobre. Foi quando eu me apaixonei e quis ingressar de cabeça na área e futuramente focar um pouco mais em Machine Learning.
+Sou estudante de Engenharia de Dados, e atuo com análise de dados. Comecei com programação FrontEnd mas decidi mudar para dados após estudar um pouco mais sobre. Foi quando eu me apaixonei e quis ingressar de cabeça na área e futuramente focar um pouco mais em Machine Learning.
 
 <div align="center">
   <img height="350" src="https://64.media.tumblr.com/633c193485d751929ce27dfce436896b/23bc468b2e6033be-67/s400x600/fd99df9a0633cbc2c2b9d5c684b8ef5f25052102.gif" />
@@ -12,13 +12,18 @@ Sou estudante de Ciência de Dados, e atuo com análise de dados. Comecei com pr
 
 <br></br>
 ## <strong>Tecnologias</strong>
-- Ciência de Dados: Recentemente tenho focado bastante em como ser uma boa cientista de dados, estou iniciando nessa trajetória com uma base em Python para dados, SQL, Estatística e por fim PowerBI.
+- Engenharia de Dados: Recentemente tenho focado bastante em como ser uma boa engenheira de dados, estou iniciando nessa trajetória com uma base em Python para dados, SQL, Databricks, DBT, Kafka, Docker, Estatística e por fim PowerBI.
 <br></br>
 <br></br>
 ## <strong>Linguagens</strong>
 - Python: Tenho conhecimento de python para análise de dados e automações, venho estudado prioritariamente Pandas, Numpy e para a visualização de dados venho utilizado Matplot, Seaborn.
 - MongoDB: Tenho conhecimento em MongoDB, focando mais em consultas e análises, por conta do meu último trabalho.
-- HeidiSQL: Utilizei para inserir, modificar, atualizar e por fim, consultar o banco de dados que estou trabalhando no momento 
+- HeidiSQL: Utilizei para inserir, modificar, atualizar e por fim, consultar o banco de dados que estou trabalhando no momento.
+- DBT (Data Build Tool): Estou explorando DBT para transformar dados em SQL e criar pipelines de transformação que tornam o processo mais ágil e eficiente. Com DBT, estou aprendendo a estruturar e versionar scripts SQL, automatizar processos de ETL e melhorar a qualidade dos dados com testes automatizados.
+- Kafka: Estou me aprofundando no Apache Kafka para entender melhor como gerenciar fluxos de dados em tempo real. Utilizando Kafka, tenho aprendido a construir pipelines de dados que permitem a comunicação entre sistemas de forma eficiente e escalável, especialmente em arquiteturas distribuídas.
+- Airflow: Tenho utilizado o Apache Airflow para agendar, monitorar e gerenciar fluxos de trabalho complexos. Estou aprendendo a orquestrar tarefas e automações, criando pipelines de dados que garantem um fluxo de trabalho contínuo e sem falhas.
+- Databricks: Tenho estudado Databricks como uma plataforma unificada que facilita o processamento de dados em larga escala. Combinando Spark e notebooks colaborativos, estou aprendendo a desenvolver pipelines de dados e análises avançadas em um ambiente otimizado para a ciência de dados.
+- Docker: Tenho explorado Docker para criar ambientes de desenvolvimento isolados e consistentes. Com o Docker, estou aprendendo a containerizar aplicações, garantindo que elas funcionem da mesma forma em qualquer ambiente, facilitando o desenvolvimento e a implantação de projetos.
 
 <br></br>
 <hr style="border: 1px solid black;">
@@ -36,8 +41,13 @@ Sou estudante de Ciência de Dados, e atuo com análise de dados. Comecei com pr
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   <img align="center" alt="SQLserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
-  <img align="center" alt="SQLserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-          
+  <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img align="center" alt="ApacheAirflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"/>
+  <img align="center" alt="ApacheKafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"/>
+  <img align="center" alt="ApacheSpark" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"/>
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"/>
+  <img align="center" alt="AWSServices" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  
           
   
  <br></br>
