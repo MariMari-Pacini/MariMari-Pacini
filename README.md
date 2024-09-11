@@ -16,7 +16,7 @@ Sou estudante de Engenharia de Dados, e atuo com análise de dados. Comecei com 
 <br></br>
 <br></br>
 ## <strong>Linguagens</strong>
-- Python: Tenho conhecimento de python para análise de dados e automações, venho estudado prioritariamente Pandas, Numpy e para a visualização de dados venho utilizado Matplot, Seaborn.
+- Python: Tenho conhecimento de python para análise de dados e automações, venho estudado prioritariamente Pandas, Numpy, PySpark e para a visualização de dados venho utilizado Matplot, Seaborn.
 - MongoDB: Tenho conhecimento em MongoDB, focando mais em consultas e análises, por conta do meu último trabalho.
 - HeidiSQL: Utilizei para inserir, modificar, atualizar e por fim, consultar o banco de dados que estou trabalhando no momento.
 - DBT (Data Build Tool): Estou explorando DBT para transformar dados em SQL e criar pipelines de transformação que tornam o processo mais ágil e eficiente. Com DBT, estou aprendendo a estruturar e versionar scripts SQL, automatizar processos de ETL e melhorar a qualidade dos dados com testes automatizados.
