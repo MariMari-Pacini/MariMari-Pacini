@@ -27,10 +27,6 @@ Sou estudante de Engenharia de Dados, e atuo com análise de dados. Comecei com 
 <hr style="border: 1px solid black;">
 
 
- <div align='center'>
-   <a href="https://github.com/MariMari-Pacini">
-  
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariMari-Pacini&layout=compact&langs_count=6&theme=radical"/>
 
 </div>
 <div style="display: inline_block"><br>
