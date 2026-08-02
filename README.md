@@ -12,7 +12,7 @@ Sou estudante de Engenharia de Dados, e atuo com análise de dados. Comecei com 
 
 <br></br>
 ## <strong>Tecnologias</strong>
-- Engenharia de Dados: Recentemente tenho focado bastante em como ser uma boa engenheira de dados, estou iniciando nessa trajetória com uma base em Python para dados, SQL, Databricks, DBT, Kafka, Docker, Estatística e por fim PowerBI.
+- Engenharia de Dados: Recentemente tenho focado bastante em como ser uma boa engenheira de dados, estou iniciando nessa trajetória com uma base em Python para dados, SQL, Databricks, DBT, Docker, Estatística e por fim PowerBI.
 <br></br>
 <br></br>
 ## <strong>Linguagens</strong>
