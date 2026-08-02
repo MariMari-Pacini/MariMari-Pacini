@@ -20,8 +20,6 @@ Sou estudante de Engenharia de Dados, e atuo com análise de dados. Comecei com 
 - MongoDB: Tenho conhecimento em MongoDB, focando mais em consultas e análises, por conta do meu último trabalho.
 - HeidiSQL: Utilizei para inserir, modificar, atualizar e por fim, consultar o banco de dados que estou trabalhando no momento.
 - DBT (Data Build Tool): Estou explorando DBT para transformar dados em SQL e criar pipelines de transformação que tornam o processo mais ágil e eficiente. Com DBT, estou aprendendo a estruturar e versionar scripts SQL, automatizar processos de ETL e melhorar a qualidade dos dados com testes automatizados.
-- Kafka: Estou me aprofundando no Apache Kafka para entender melhor como gerenciar fluxos de dados em tempo real. Utilizando Kafka, tenho aprendido a construir pipelines de dados que permitem a comunicação entre sistemas de forma eficiente e escalável, especialmente em arquiteturas distribuídas.
-- Airflow: Tenho utilizado o Apache Airflow para agendar, monitorar e gerenciar fluxos de trabalho complexos. Estou aprendendo a orquestrar tarefas e automações, criando pipelines de dados que garantem um fluxo de trabalho contínuo e sem falhas.
 - Databricks: Tenho estudado Databricks como uma plataforma unificada que facilita o processamento de dados em larga escala. Combinando Spark e notebooks colaborativos, estou aprendendo a desenvolver pipelines de dados e análises avançadas em um ambiente otimizado para a ciência de dados.
 - Docker: Tenho explorado Docker para criar ambientes de desenvolvimento isolados e consistentes. Com o Docker, estou aprendendo a containerizar aplicações, garantindo que elas funcionem da mesma forma em qualquer ambiente, facilitando o desenvolvimento e a implantação de projetos.
 
