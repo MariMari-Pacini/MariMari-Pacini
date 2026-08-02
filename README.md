@@ -47,10 +47,7 @@ Sou estudante de Engenharia de Dados, e atuo com análise de dados. Comecei com 
   <img align="center" alt="AWSServices" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
   
           
-  
- <br></br>
-  <img align="right" alt="MariMari" height="120" width="120" src="https://cdn.discordapp.com/attachments/1061713662487834724/1082791257853677698/asasasas.gif">
-</div>
+
  
  <br>
  
